@@ -13,7 +13,7 @@ const (
 	VFLIP      = "-vf"
 	OUTFLAG    = "-o"
 	FILE_TYPE  = ".jpg"
-	TIME_STAMP = "2006-01-02_15:04::05"
+	TIME_STAMP = "2006-01-02_15:04:05"
 )
 
 type Camera struct {
